@@ -53,22 +53,6 @@ A modern task management application with elegant design and powerful functional
 | 🟡 Yellow | Medium | Important tasks |
 | 🟢 Green | Low | When time allows |
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -m 'Add feature'`)
-4. Push branch (`git push origin feature/new-feature`)
-5. Open Pull Request
-
-## 📋 Roadmap
-
-- [ ] Task categories
-- [ ] Due dates
-- [ ] Export/Import
-- [ ] Cloud sync
-- [ ] Mobile app
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details.
@@ -76,7 +60,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/xfrogly)
+- GitHub: [@xFrogly](https://github.com/xfrogly)
 
 ---
 
